@@ -1,0 +1,7 @@
+print(2+2)
+print(8-9)
+print(6/2)
+print(6*11)
+print(39//13)
+print(112%2)
+print(4**4)
